@@ -3,7 +3,7 @@ Samson adalah program kecil CSS, Sangat Ringan dan Sederhana yang menyediakan wa
 #### Cara Implementasi Samson di Proyek Website, HTML, Web Apps dan Perangkat Lunak
 ##### CDN
 ```html
-https://cdn.jsdelivr.net/gh/nelsenpro/samson/samson.min.css
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nelsenpro/samson/samson.min.css" type="text/css" media="all" />
 ```
 ##### Download:
 [Download disini - zip](https://github.com/nelsenpro/samson/archive/refs/heads/main.zip) ataupun 
