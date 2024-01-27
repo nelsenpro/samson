@@ -19,10 +19,7 @@ class=""
 ```
 <p class="bgkuning">background teks ini berwarna kuning</p>
 ```
-#### Copy Paste Code di HTML
-```
-
-```
+###### Copy Paste Code di HTML
 ## Samson Fonts
 Fonts : arial, verdana, monospace, cursive, times, tahoma, georgia,garamond
 ## Samson Colors
