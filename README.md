@@ -11,10 +11,20 @@ https://github.com/nelsenpro/samson.git
 ```
 #### Code
 ```
+class=""
+```
+```
+<p class="merah monospace">teks ini berwarna merah dan font monospace</p>
+```
+```
+<p class="bgkuning">background teks ini berwarna kuning</p>
+```
+#### Copy Paste Code di HTML
+```
 
 ```
 ## Samson Fonts
-Fonts :
+Fonts : arial, verdana, monospace, cursive, times, tahoma, georgia,garamond
 ## Samson Colors
-Colors :
+Colors : red, green, blue, cyan, magenta, yellow, black, white, purple, grey,silver, pink
 
