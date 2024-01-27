@@ -6,7 +6,7 @@ link
 #### Install :
 pkg in
 #### Clone :
-git clone
+```https://github.com/nelsenpro/samson.git```
 ## Samson Fonts
 Fonts :
 ## Samson Colors
