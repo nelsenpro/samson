@@ -6,7 +6,8 @@ Samson adalah program kecil CSS, Sangat Ringan dan Sederhana yang menyediakan wa
 https://cdn.jsdelivr.net/gh/nelsenpro/samson/samson.min.css
 ```
 ##### Download:
-[Download disini](https://github.com/nelsenpro/samson/archive/refs/heads/main.zip)
+[Download disini](https://github.com/nelsenpro/samson/archive/refs/heads/main.zip) ataupun 
+[CDN Download disini](https://cdn.jsdelivr.net/gh/nelsenpro/samson/samson.min.css)
 ##### Install :
 NPM : belum tersedia 
 ##### Clone GIT:
