@@ -1,0 +1,143 @@
+/***
+**
+MIT License
+Copyright (c) 2024 Nelsen Niko
+**
+***/
+
+@charset "UTF-8";
+:root {
+    --cyan: #00ffff;
+    --magenta: #ff00ff;
+    --yellow: #ffff00;
+    --red: #ff0000;
+    --green: #008000;
+    --blue: #0000ff;
+    --white: #ffffff;
+    --orange: #ffa500;
+    --purple: #800080;
+    --pink: #ffc0cb;
+    --silver: #c0c0c0;
+    --grey: #808080;
+    --black: #000000
+}
+
+/****
+warna font
+*/
+.cyan {
+    color: var(--cyan);
+}
+.magenta {
+    color: var(--magenta);
+}
+.yellow,
+.kuning {
+    color: var(--yellow);
+}
+.red,
+.merah {
+    color: var(--red);
+}
+.green,
+.hijau {
+    color: var(--green);
+}
+.blue,
+.biru {
+    color: var(--blue);
+}
+.white,
+.putih {
+    color: var(--white);
+}
+.orange,
+.oren {
+    color: var(--orange);
+}
+.purple,
+.ungu {
+    color: var(--purple);
+}
+.pink {
+    color: var(--pink);
+}
+
+/****
+warna background
+*/
+.bgcyan {
+    background-color: var(--cyan)!important;
+}
+.bgmagenta {
+    background-color: var(--magenta)!important;
+}
+.bgyellow,
+.bgkuning {
+    background-color: var(--yellow)!important;
+}
+.bgred,
+.bgmerah {
+    background-color: var(--red)!important;
+}
+.bggreen,
+.bghijau {
+    background-color: var(--green)!important;
+}
+.bgblue,
+.bgbiru {
+    background-color: var(--blue)!important;
+}
+.bgwhite,
+.bgputih {
+    background-color: var(--white)!important;
+}
+.bgblack,
+.bghitam {
+    background-color: var(--black)!important;
+}
+.bgorange,
+.bgoren {
+    background-color: var(--orange)!important;
+}
+.bgpurple,
+.bgungu {
+    background-color: var(--purple)!important;
+}
+.bgpink {
+    background-color: var(--pink)!important;
+}
+.bgsilver {
+    background-color: var(--silver)!important;
+}
+
+/****
+jenis fonts
+*/
+.arial {
+    font-family: Arial, sans-serif;
+}
+.verdana {
+    font-family: Verdana, sans-serif;
+}
+.tahoma {
+    font-family: Tahoma, sans-serif;
+}
+.trebuchet {
+    font-family: 'Trebuchet MS', sans-serif;
+}
+.times {
+    font-family: 'Times New Roman', serif;
+}
+.georgia {
+    font-family: Georgia, serif;
+}
+.garamond {
+    font-family: Garamond, serif;
+}
+.monospace {
+    font-family: 'Courier New', monospace;
+}
+.cursive {
+    font-family: 'Brush Script MT', cursive;
+}
