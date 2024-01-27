@@ -1,6 +1,10 @@
 # Samson
 Samson adalah program kecil CSS, Sangat Ringan dan Sederhana yang menyediakan warna dan jenis font pada HTML, Website, Web Apps dan Perangkat Lunak lainnya.
 #### Cara Implementasi Samson di Proyek Website, HTML, Web Apps dan Perangkat Lunak
+##### CDN
+```html
+https://cdn.jsdelivr.net/gh/nelsenpro/samson/samson.min.css
+```
 ##### Download:
 [Download disini](https://github.com/nelsenpro/samson/archive/refs/heads/main.zip)
 ##### Install :
