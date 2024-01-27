@@ -6,17 +6,17 @@ Samson adalah program kecil CSS, Sangat Ringan dan Sederhana yang menyediakan wa
 ##### Install :
 NPM : belum tersedia 
 ##### Clone GIT:
-```
+```html
 https://github.com/nelsenpro/samson.git
 ```
 #### Code
-```
+```html
 class=""
 ```
-```
+```html
 <p class="merah monospace">teks ini berwarna merah dan font monospace</p>
 ```
-```
+```html
 <p class="bgkuning">background teks ini berwarna kuning</p>
 ```
 ###### Copy Paste Code di HTML
